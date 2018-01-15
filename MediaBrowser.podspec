@@ -26,7 +26,7 @@ MediaBrowser can display one or more images or videos by providing either UIImag
   s.social_media_url = 'https://twitter.com/younatics'
 
   s.source           = { 
-    :git => 'https://github.com/younatics/MediaBrowser.git', 
+    :git => 'https://github.com/Jack-Rouleau/MediaBrowser.git', 
     :tag => s.version.to_s }
   s.source_files     = 'MediaBrowser/*.swift'
   s.resources        = "MediaBrowser/*.xcassets"
